@@ -1,4 +1,3 @@
-İşte doğrudan kopyalayıp kullanabileceğin hali:
 
 ---
 
